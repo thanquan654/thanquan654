@@ -2,7 +2,7 @@
 <h4 align="left">I have been studying IT at the University of Transport & Communications since Oct 2022. I am happy when you were here. Have a nice day!</h4>
 
 <h2 align="left">Trophy:</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thanquan654&theme=onedark&margin-w=15&margin-h=15" alt="thanquan654" /></a> </p>
+<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=thanquan654&theme=onedark&margin-w=15&margin-h=15" alt="thanquan654" /></a> </p>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
