@@ -2,16 +2,11 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 ```javascript
-class About extends Me {
-    static fullName = "Thân Văn Quân";
-    static getCurrentWorkplace () {
-        return {
-            Workplace: {
-                Company: 'KProtect',
-                Position: 'Founder'
-            }
-        }
-    }
+const About_Me = {
+
+    fullName: "Thân Văn Quân";
+    
+}
 ```
 
 <h2 align="center">GitHub Profile Trophy 🏆</h2>
@@ -23,72 +18,70 @@ class About extends Me {
 </p>
 
 <h2 align="center" >Languages and Tools:</h2>
-<p align="left"> <span title="HTML" style="margin: 5px; border-bottom:2px solid #6a3f21;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </span> <span title="CSS 3" style="margin: 5px; border-bottom:2px solid #6a3f21;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </span> <span title="SCSS" style="margin: 5px; border-bottom:2px solid #6a3f21;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </span> <span title="Bootstrap" style="margin: 5px; border-bottom:2px solid #6a3f21;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </span>
-<span title="Javascript" style="margin: 5px; border-bottom:2px solid #6a3f21;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </span> <span title="ReactJS" style="margin: 5px; border-bottom:2px solid #6a3f21;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </span> <span title="NodeJS" style="margin: 5px; border-bottom:2px solid #6a3f21;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </span> <span title="Git" style="margin: 5px; border-bottom:2px solid #6a3f21;"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </span> <span title="Figma" style="margin: 5px; border-bottom:2px solid #6a3f21;"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </span> </p>
 
 <table align="center">
   <tbody>
     <tr valign="top">
       <td width="20%" align="center">
-	<a href="https://devdocs.io/cpp/">
+	<a href="https://www.w3.org/html/">
 		<span>𝗛𝗧𝗠𝗟𝟱</span><br><br>
 		<img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
 	 </a>
       </td>
       <td width="20%" align="center">
-	 <a href="https://docs.microsoft.com/dotnet/csharp/">
-		<span>𝗖#</span><br><br><br>
-		<img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+	 <a href="https://www.w3schools.com/css/">
+		<span>𝗖𝗦𝗦𝟯</span><br><br>
+		<img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
 	 </a>
       </td>
       <td width="20%" align="center">
-	<a href="https://docs.oracle.com/java/">
-		<span>𝗝𝗮𝘃𝗮</span><br><br><br>
-		<img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+	<a href="https://sass-lang.com">
+		<span>𝗦𝗖𝗦𝗦</span><br><br>
+		<img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
 	 </a>
       </td>
 	<td width="20%" align="center">
-		<a href="https://dart.dev/guides">
-        <span>𝗗𝗮𝗿𝘁</span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
+		<a href="https://getbootstrap.com">
+        <span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽</span><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
 		</a>
       </td>
       <td width="20%" align="center">
-	      <a href="https://docs.python.org/3/">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+	      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <span>𝗝𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽𝘁</span><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 	      </a>
       </td>
     </tr>
     <tr valign="top">
-	<td width="20%" align="center">
-		<a href="https://code.visualstudio.com/docs">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
-		</a>
-      </td>
-	<td width="20%" align="center">
-		<a href="https://docs.microsoft.com/visualstudio/ide/?view=vs-2019">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg">
-		</a>
-      </td>
-      <td width="20%" align="center">
-	      <a href="https://developer.android.com/docs">
-        <span>𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg">
+	 <td width="20%" align="center">
+	      <a href="https://www.typescriptlang.org/">
+        <span>𝗧𝘆𝗽𝗲𝘀𝗰𝗿𝗶𝗽𝘁</span><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 	      </a>
       </td>
+	<td width="20%" align="center">
+		<a href="https://reactjs.org/">
+        <span>𝗥𝗲𝗮𝗰𝘁𝗝𝗦</span><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+		</a>
+      </td>
+	<td width="20%" align="center">
+		<a href="https://nodejs.org">
+        <span>𝗡𝗼𝗱𝗲𝗝𝗦</span><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+		</a>
+      </td>
 	    <td width="20%" align="center">
-	<a href="https://docs.flutter.dev/">
-		<span>𝗙𝗹𝘂𝘁𝘁𝗲𝗿</span><br><br><br>
-		<img height="64px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg">
+	<a href="https://git-scm.com/">
+		<span>𝗚𝗶𝘁</span><br><br>
+		<img height="64px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
 	</a>
       </td>
       <td width="20%" align="center">
-	      <a href="https://git-scm.com/doc">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+	      <a href="https://www.figma.com/">
+        <span>𝗙𝗶𝗴𝗺𝗮</span><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
 	      </a>
       </td>
     </tr>
@@ -102,6 +95,7 @@ class About extends Me {
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanquan654&theme=dark" alt="thanquan654" /></p>
 
+<h2></h2>
 <p align='center'>
 <img src="https://github.com/ngoctienTNT/ngoctienTNT/blob/output/github-contribution-grid-snake.svg">
 </p>
